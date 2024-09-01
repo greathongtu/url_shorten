@@ -1,5 +1,7 @@
 /backend/target
 /backend/Cargo.lock
+/backend-go/go.sum
+/backend-go/urlshortener
 
 /frontend/node_modules
 /frontend/.env
