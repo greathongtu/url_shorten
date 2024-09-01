@@ -1,0 +1,2 @@
+database_url = "postgres://user:password@db:5432/urlshortener"
+server_addr = "0.0.0.0:8080"
